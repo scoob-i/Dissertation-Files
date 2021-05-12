@@ -132,7 +132,7 @@ class Individual implements Cloneable{
     public static final String TARGET = "Enter target string";
     int fitness = 0;
     int geneLength = TARGET.length();
-    String genes = ""; //  <---- Pop size??
+    String genes = ""; 
 
 
     public Individual() {
