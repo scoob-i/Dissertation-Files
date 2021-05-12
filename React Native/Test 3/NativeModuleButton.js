@@ -10,7 +10,7 @@ const NewModuleButton = () => {
 
   return (
     <Button
-      title="Click to invoke your native module!"
+      title="Click to invoke native module"
       color="#841584"
       onPress={onPress}
     />
